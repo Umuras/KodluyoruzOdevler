@@ -1,0 +1,32 @@
+rviceBehavior 
+12/25/2020 12:06:25.266 [4492]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.274 [4492]: ngen returning 0x00000000
+12/25/2020 12:06:25.296 [5300]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.S5aeb222a#\3fe6885d8cc0f0247b481514797bcad3\Microsoft.ServiceHub.Client.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:25.405 [5300]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.412 [5300]: ngen returning 0x00000000
+12/25/2020 12:06:25.435 [5404]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Sb88c8854#\9d94a86d78b4daa93d15019a902e96ae\Microsoft.ServiceHub.HostLib.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:25.544 [5404]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.552 [5404]: ngen returning 0x00000000
+12/25/2020 12:06:25.576 [5728]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Sca0cfb83#\44e0347048459f94a3db0fa4df61ec8c\Microsoft.ServiceHub.HostStub.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:25.711 [5728]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.718 [5728]: ngen returning 0x00000000
+12/25/2020 12:06:25.741 [5748]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T0716bb1d#\5bb523e9b8f96c74fb3b3ed7e29c71c8\Microsoft.TeamFoundation.Git.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:25.844 [5748]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.852 [5748]: ngen returning 0x00000000
+12/25/2020 12:06:25.874 [6012]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T0724e4fa#\65f346907d05f3e0f313a928b15d4acd\Microsoft.TeamFoundation.WorkItemTracking.WebApi.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:25.982 [6012]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:25.989 [6012]: ngen returning 0x00000000
+12/25/2020 12:06:26.014 [6424]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T079d5d8b#\3e8c319afe82207d3d9cfc7e78baec4f\Microsoft.TeamFoundation.Lab.Common.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:26.135 [6424]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:26.142 [6424]: ngen returning 0x00000000
+12/25/2020 12:06:26.163 [6564]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T07ce353f#\f6ab093bf9050d92da56cf385fe2e742\Microsoft.TeamFoundation.Lab.Client.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:26.267 [6564]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:26.274 [6564]: ngen returning 0x00000000
+12/25/2020 12:06:26.295 [6884]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T2496838b#\7424aab19d887f62cdde4184a276a959\Microsoft.TeamFoundation.WorkItemTracking.Client.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:26.421 [6884]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:26.429 [6884]: ngen returning 0x00000000
+12/25/2020 12:06:26.451 [7104]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T24a7ab7f#\434b84d56ceffd184d2e71f81656fb21\Microsoft.TeamFoundation.WorkItemTracking.Common.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:26.564 [7104]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:26.573 [7104]: ngen returning 0x00000000
+12/25/2020 12:06:26.597 [7212]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.T2723619e#\3f6a75fec7f442bc495dfb07f25179ae\Microsoft.TeamFoundation.Client.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:26.705 [7212]: Native image 

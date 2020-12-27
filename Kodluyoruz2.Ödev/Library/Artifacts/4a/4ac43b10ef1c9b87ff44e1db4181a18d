@@ -1,0 +1,32 @@
+25/2020 12:06:17.199 [8236]: ngen returning 0x00000000
+12/25/2020 12:06:17.220 [9960]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.VisualStu#\e48794164492bfb5d8e4d1d7c8de873f\Microsoft.VisualStudio.Tools.Office.AddInAdapter.v9.0.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.282 [9960]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.286 [9960]: ngen returning 0x00000000
+12/25/2020 12:06:17.305 [8640]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.VisualStu#\ec8b137ed77f1801a6b7a93a3a8fd1f8\Microsoft.VisualStudio.Tools.Office.AppInfoDocument.v9.0.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.366 [8640]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.369 [8640]: ngen returning 0x00000000
+12/25/2020 12:06:17.388 [1180]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.VisualStu#\fbb41179c9ce26bb9310b2d9ac538dbc\Microsoft.VisualStudio.Tools.Applications.ServerDocument.v10.0.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.445 [1180]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.449 [1180]: ngen returning 0x00000000
+12/25/2020 12:06:17.467 [6120]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.VisualStu#\fdfe83857ca17b6b07b0bb22ad569709\Microsoft.VisualStudio.Tools.Office.Contract.v10.0.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.529 [6120]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.533 [6120]: ngen returning 0x00000000
+12/25/2020 12:06:17.552 [9524]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.WSMan.Man#\2723105e01e23a01419b2a6dce9a4a92\Microsoft.WSMan.Management.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.618 [9524]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.622 [9524]: ngen returning 0x00000000
+12/25/2020 12:06:17.641 [9476]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\Microsoft.WSMan.Run#\f218536f3f97651f01fef777c7831539\Microsoft.WSMan.Runtime.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.703 [9476]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.706 [9476]: ngen returning 0x00000000
+12/25/2020 12:06:17.727 [9848]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\mscorlib\a1c59d801172ed950d7b7270b6e5016d\mscorlib.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.789 [9848]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.793 [9848]: ngen returning 0x00000000
+12/25/2020 12:06:17.814 [9100]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\PresentationCore\bef6f54cd5f8abe14c3d8602e47cde72\PresentationCore.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.872 [9100]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.875 [9100]: ngen returning 0x00000000
+12/25/2020 12:06:17.895 [9936]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\PresentationFramewo#\67c64e634036fa71af5514d5c55967a5\PresentationFramework.Aero.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:17.958 [9936]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:17.962 [9936]: ngen returning 0x00000000
+12/25/2020 12:06:17.984 [4604]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\PresentationFramewo#\dd80b8abb9304a58c9f76080ea2e68af\PresentationFramework.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:06:18.038 [4604]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:06:18.042 [4604]: ngen returning 0x00000000
+12/25/2020 12:06:18.061 [9860]: Command line: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v2.0.50727_64\ResGen\55a1bc133553a7

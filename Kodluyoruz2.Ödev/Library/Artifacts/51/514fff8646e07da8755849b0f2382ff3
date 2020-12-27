@@ -1,0 +1,66 @@
+f2cc25099454c402\Microsoft.Windows.Design.Interaction.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.208 [10156]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.214 [10156]: ngen returning 0x00000000
+12/25/2020 12:07:00.236 [4696]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W829aa272#\6a2282df4b27e8b910a01d13fe345879\Microsoft.Windows.Design.Host.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.342 [4696]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.350 [4696]: ngen returning 0x00000000
+12/25/2020 12:07:00.377 [7452]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W8d83d149#\3f73f2792fe34c9b9bb2adc85099f245\Microsoft.Windows.Design.Extensibility.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.483 [7452]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.490 [7452]: ngen returning 0x00000000
+12/25/2020 12:07:00.511 [1912]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wa8f596b0#\9502be512e07113bba8d368878f76cf4\Microsoft.Windows.Shell.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.627 [1912]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.635 [1912]: ngen returning 0x00000000
+12/25/2020 12:07:00.664 [624]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wad78daf4#\a19dcd3ab2f832fabe10c43b199e6ade\Microsoft.Windows.Diagnosis.SDHost.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.770 [624]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.777 [624]: ngen returning 0x00000000
+12/25/2020 12:07:00.798 [2176]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wb2e8627a#\3216003c85ff540a95ed9ba9007040ce\Microsoft.Win32.TaskScheduler.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:00.903 [2176]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:00.910 [2176]: ngen returning 0x00000000
+12/25/2020 12:07:00.931 [6180]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wb2e8627a#\9b16cea54a749ef3a45e5167df4b7b0b\Microsoft.Win32.TaskScheduler.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.040 [6180]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.048 [6180]: ngen returning 0x00000000
+12/25/2020 12:07:01.069 [2140]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wcffedcb4#\25b5d1ef9aeaa2248484bf57b3e34dce\Microsoft.WindowsSearch.Commands.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.181 [2140]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.192 [2140]: ngen returning 0x00000000
+12/25/2020 12:07:01.214 [2464]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wd518ee0d#\8b53fa675650ba84bc7c3b6e291f7249\Microsoft.Windows.Diagnosis.Commands.UpdateDiagReport.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.330 [2464]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.338 [2464]: ngen returning 0x00000000
+12/25/2020 12:07:01.365 [7828]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wd75d181a#\b8937fc052afa33cb88e79b28621741d\Microsoft.Windows.Diagnosis.SDEngine.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.469 [7828]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.477 [7828]: ngen returning 0x00000000
+12/25/2020 12:07:01.501 [2900]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.We0722664#\13da138fc8e52aeb5ebd91b4a726f73b\Microsoft.WSMan.Management.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.612 [2900]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.619 [2900]: ngen returning 0x00000000
+12/25/2020 12:07:01.639 [4252]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.We9f24001#\e21f1b17291f4d11b75781ed8cad8b8b\Microsoft.WSMan.Management.Activities.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.747 [4252]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.756 [4252]: ngen returning 0x00000000
+12/25/2020 12:07:01.778 [4524]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Wed3937f9#\78d312f976915625bb98cdffcfdd5ad4\Microsoft.Windows.Diagnosis.SDCommon.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:01.883 [4524]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:01.892 [4524]: ngen returning 0x00000000
+12/25/2020 12:07:01.914 [4592]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.XmlEditor\e226a4567411c16e7b0303f6c3cfa02f\Microsoft.XmlEditor.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.023 [4592]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.031 [4592]: ngen returning 0x00000000
+12/25/2020 12:07:02.051 [3732]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MIGUIControls\68cd6a5e07bf26ad5a347bef9acdc307\MIGUIControls.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.158 [3732]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.166 [3732]: ngen returning 0x00000000
+12/25/2020 12:07:02.187 [5324]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MMCEx\0066062729ef689f2ef943027e07ef08\MMCEx.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.293 [5324]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.301 [5324]: ngen returning 0x00000000
+12/25/2020 12:07:02.322 [856]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MMCFxCommon\1fc7ada3c92ae63aa752745adbdc75e3\MMCFxCommon.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.427 [856]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.434 [856]: ngen returning 0x00000000
+12/25/2020 12:07:02.456 [2640]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild\3a696865406697005296403786c8e9f7\MSBuild.ni.exe /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.571 [2640]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.578 [2640]: ngen returning 0x00000000
+12/25/2020 12:07:02.598 [2032]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild.resources\1e2fd535b1ab7ada740607b6b9db7c2b\MSBuild.resources.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.704 [2032]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.711 [2032]: ngen returning 0x00000000
+12/25/2020 12:07:02.732 [5428]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild.resources\1f259cfdf763d8174d46c53b7ed0519a\MSBuild.resources.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.844 [5428]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.851 [5428]: ngen returning 0x00000000
+12/25/2020 12:07:02.873 [4528]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild.resources\2898a1ec915e72c9203fa04c00200333\MSBuild.resources.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:02.989 [4528]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07:02.996 [4528]: ngen returning 0x00000000
+12/25/2020 12:07:03.019 [4600]: Command line: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe uninstall C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild.resources\34deff00fa39f9793c4198b1535e262c\MSBuild.resources.ni.dll /noroot /LegacyServiceBehavior 
+12/25/2020 12:07:03.124 [4600]: Native image used by one or more roots, cannot be uninstalled
+12/25/2020 12:07

@@ -1,0 +1,121 @@
+                           {
+                                                                new global::Siemens.Automation.Openness.ObjectModel.Mapper.CreateParameterDataExchangeService
+                                                                (
+
+                                                                    /* typeConverter..........*/ global::Siemens.Automation.Openness.ObjectModel.Mapper.Manager.GetTypeConverter("System.String")
+
+                                                                )
+                                                      },
+                        /* propertyAdapterName.....*/ "Siemens.Simatic.HwConfiguration.Model.IDeviceItemData.InvariantTypeName",
+                        /* typeArray...............*/ new global::System.Type[] { typeof(global::System.String) }
+
+                        #endregion
+                    ),
+                    new Mapper.CreateParameterSimple
+                    (
+                        #region 12: UICapabilities
+
+                        /* name....................*/ "UICapabilities",
+                        /* createPublicationLevel..*/ ObjectModel.PublicationLevel.System,
+                        /* createFeatureTokens.....*/ new[] { "DataExchange" },
+                        /* mandatoryFeatureTokens..*/ null,
+                        /* createParameterServices.*/ new global::Siemens.Automation.Openness.ObjectModel.ICreateParameterService[]
+                                                      {
+                                                                new global::Siemens.Automation.Openness.ObjectModel.Mapper.CreateParameterDataExchangeService
+                                                                (
+
+                                                                    /* typeConverter..........*/ global::Siemens.Automation.Openness.ObjectModel.Mapper.Manager.GetTypeConverter("System.Int64")
+
+                                                                )
+                                                      },
+                        /* propertyAdapterName.....*/ "Siemens.Simatic.HwConfiguration.Model.IDeviceItemData.UICapabilities",
+                        /* typeArray...............*/ new global::System.Type[] { typeof(global::System.Int64) }
+
+                        #endregion
+                    ),
+                    new Mapper.CreateParameterSimple
+                    (
+                        #region 13: Version
+
+                        /* name....................*/ "Version",
+                        /* createPublicationLevel..*/ ObjectModel.PublicationLevel.System,
+                        /* createFeatureTokens.....*/ new[] { "DataExchange" },
+                        /* mandatoryFeatureTokens..*/ null,
+                        /* createParameterServices.*/ new global::Siemens.Automation.Openness.ObjectModel.ICreateParameterService[]
+                                                      {
+                                                                new global::Siemens.Automation.Openness.ObjectModel.Mapper.CreateParameterDataExchangeService
+                                                                (
+
+                                                                    /* typeConverter..........*/ global::Siemens.Automation.Openness.ObjectModel.Mapper.Manager.GetTypeConverter("System.String")
+
+                                                                )
+                                                      },
+                        /* propertyAdapterName.....*/ "Siemens.Automation.ObjectFrame.ICoreAttributes.Version",
+                        /* typeArray...............*/ new global::System.Type[] { typeof(global::System.String) }
+
+                        #endregion
+                    ) 
+                },
+
+                #endregion
+    
+                #region Event Initializations
+            
+                new Mapper.Event[]
+                {
+
+                }
+
+                #endregion
+            );
+        }
+
+        #endregion
+
+        #region FactoryArray
+
+        internal static ObjectModel.Private.IClassCore[] FactoryArray()
+        {
+            return s_Instance;
+        }
+
+        #endregion
+    }
+
+    #endregion
+
+    #region Enum: DeviceItemType
+
+    [FlagsAttribute]
+    internal enum DeviceItemType : long
+    {
+        #region Values
+
+        None = 0,
+        Rack = 1,
+        Module = 2,
+        Submodule = 4,
+        CPU = 8,
+        FM = 16,
+        CP = 32,
+        PS = 64,
+        IM = 128,
+        AddressContainer = 256,
+        DPMasterIOController = 512,
+        Headmodule = 2048,
+        VirtualSlave = 4096,
+        Interface = 8192,
+        Port = 16384,
+        IOSystemConnector = 65536,
+        VirtualObject = 262144,
+        SubSubmodule = 524288,
+        MastersystemCarrier = 1048576,
+
+        #endregion
+    }
+
+    #endregion
+
+    #region Class: DirectDataExchangeObject <- extension count = 0
+
+    internal 

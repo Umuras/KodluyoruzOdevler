@@ -1,0 +1,32 @@
+MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.857394" Point_Y="0.841336"/>
+	<SwitchOperation Description="加速(驾驶模式2)" EnableSwitch="Whistle"  DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.857394" Point_Y="0.841336"/>
+	<SwitchOperation Description="加速" EnableSwitch="Whistle"  DisableSwitch="XBtn|MapOpenFlag|InSetUp|Moto|Moto2" Point_X="0.863281" Point_Y="0.844444"/>
+	</KeyMapping>
+	<KeyMapping ItemName="Space" Point_X="0.970313" Point_Y="0.779167" Description="跳跃" AsciiCode="32">
+	<SwitchOperation Description="跳跃" EnableSwitch="Jump" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.970313" Point_Y="0.779167" HideTips="1"/>
+	<SwitchOperation Description="跳跃（僵尸）" EnableSwitch="Jump2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.970313" Point_Y="0.779167" HideTips="1"/>
+	<SwitchOperation Description="滑雪时跳跃(驾驶模式1)" EnableSwitch="DriveMode1|Jump3" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.826562" Point_Y="0.593056"  HideTips="1"/>	
+	<SwitchOperation Description="按住滑雪时跳跃(驾驶模式1)" EnableSwitch="DriveMode1|Jump4" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.826562" Point_Y="0.593056"  HideTips="1"/>		
+	<SwitchOperation Description="滑雪时跳跃" EnableSwitch="Jump3" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.864062" Point_Y="0.841667"  HideTips="1"/>	
+	<SwitchOperation Description="按住滑雪时跳跃" EnableSwitch="Jump4" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.864062" Point_Y="0.841667"  HideTips="1"/>		
+	<SwitchOperation Description="上潜" EnableSwitch="SwimUp"  DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.878906" Point_Y="0.702778" HideTips="1"/>
+	<SwitchOperation Description="上潜中" EnableSwitch="SwimmingUp"  DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.878906" Point_Y="0.702778" HideTips="1"/>
+	<SwitchOperation Description="刹车" EnableSwitch="Whistle"  DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.935937" Point_Y="0.663889"  />
+	<SwitchOperation Description="刹车1（载具模式）" EnableSwitch="Reload2|DriveMode1"  DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.044531" Point_Y="0.762500" HideTips="1"/>	
+	<SwitchOperation Description="刹车2（载具模式）" EnableSwitch="Reload2"  DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.938281" Point_Y="0.811111" />		
+	</KeyMapping>
+	<KeyMapping ItemName="Tab" Point_X="0.054688" Point_Y="0.931944" Description="背包" AsciiCode="9">
+	<SwitchOperation Description="锁敌（僵尸）" EnableSwitch="LockEnemy" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.971094" Point_Y="0.617222" />
+	<SwitchOperation Description="锁敌（终结者）" EnableSwitch="LockEnemy2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.971094" Point_Y="0.617222" />
+	<SwitchOperation Description="取消锁敌（终结者）" EnableSwitch="CancelLockEnemy2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.971094" Point_Y="0.617222" />
+	<SwitchOperation Description="取消锁敌（僵尸）" EnableSwitch="CancelLockEnemy" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.971094" Point_Y="0.617222" />
+	<SwitchOperation Description="关背包" EnableSwitch="XBtn" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.975781" Point_Y="0.043056"/>
+	<SwitchOperation Description="背包" EnableSwitch="Backpage" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944" />
+	<SwitchOperation Description="1级背包" EnableSwitch="Backpage1" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944" />
+	<SwitchOperation Description="2级背包" EnableSwitch="Backpage2" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944" />
+	<SwitchOperation Description="3级背包" EnableSwitch="Backpage3" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944" />
+	</KeyMapping>
+	<KeyMapping ItemName="I" Point_X="0.054688" Point_Y="0.931944" Description="背包" AsciiCode="73" HideTipsAlways="1">
+	<SwitchOperation Description="关背包" EnableSwitch="XBtn" DisableSwitch="MapOpenFlag|InSetUp" Point_X="0.975781" Point_Y="0.043056"/>
+	<SwitchOperation Description="背包" EnableSwitch="Backpage" DisableSwitch="InSetUp" Point_X="0.054688" Point_Y="0.931944" />
+	<Swi
